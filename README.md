@@ -13,8 +13,6 @@ The design and construction of a mini vending machine control system from scratc
 The machine includes a keyboard to choose from whether it's Cola, Fanta, water, or various items.
 The possibilities are endless. Simply, select a product and return it.
 
-![connections](https://github.com/AhmadHajYahya/Arduino-Vending-Machine/assets/122876073/d01329c2-cd33-4c40-a8fe-c6584a5ea356)
-
 # Project video on this link
 https://www.youtube.com/watch?v=u1GdvGXRroY
 # Note
